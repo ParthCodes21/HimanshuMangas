@@ -155,7 +155,7 @@ main::before {
   display: inline-block;
   position: relative;
   z-index: 3;
-  
+  filter: blur(11px);
 }
 
 .manga-card img {
